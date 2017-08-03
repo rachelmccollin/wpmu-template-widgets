@@ -1,0 +1,12 @@
+/*
+Theme Name:     WPMU DEV Template Widgets
+Theme URI:      https://github.com/rachelmccollin/wpmu-template-widgets
+Description:    Theme to support WPMU DEV post on widgetising theme template files. Child theme for the Twenty Seventeen theme.
+Author:         Rachel McCollin
+Author URI:     http://rachelmccollin.co.uk/
+Template:       twentyseventeen
+Version:        1.0
+*/
+
+@import url("../twentyseventeen/style.css");
+
